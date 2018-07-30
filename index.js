@@ -47,6 +47,9 @@ function prependKitten(name){
 
 kittens = ["Milo", "Otis", "Garfield"];
 
+function removeLastKitten(){
+  
+}
 
 
 

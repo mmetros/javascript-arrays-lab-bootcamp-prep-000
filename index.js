@@ -39,6 +39,8 @@ function appendKitten(name){
   return kittens.concat(name)
 }
 
+kittens = ["Milo", "Otis", "Garfield"];
+
 
 
 

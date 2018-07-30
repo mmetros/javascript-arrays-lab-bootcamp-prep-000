@@ -30,10 +30,10 @@ function destructivelyRemoveLastKitten(){
 kittens = ["Milo", "Otis", "Garfield"];
 
 function destructivelyRemoveFirstKitten(){
-  return kittens.unshift()
+  return kittens.shift()
 }
 
-
+kittens = ["Milo", "Otis", "Garfield"];
 
 
 

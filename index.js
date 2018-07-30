@@ -45,6 +45,8 @@ function prependKitten(name){
   return kittens.splice(0,0, name)
 }
 
+kittens = ["Milo", "Otis", "Garfield"];
+
 
 
 

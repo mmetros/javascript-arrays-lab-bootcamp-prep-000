@@ -42,7 +42,7 @@ function appendKitten(name){
 kittens = ["Milo", "Otis", "Garfield"];
 
 function prependKitten(name){
-  kittens.splice(0,0, name)
+  kittens.splice(0,1, name)
   return kittens
 }
 
